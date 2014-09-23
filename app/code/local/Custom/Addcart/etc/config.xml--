@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Custom_Addcart> <!--Change Anjan To Your Module NameSpace and Override to Your Module name-->
+            <version>0.1.0</version>
+        </Custom_Addcart>
+    </modules>
+</config>

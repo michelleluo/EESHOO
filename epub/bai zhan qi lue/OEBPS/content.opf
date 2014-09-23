@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:74cff4d8-666f-494f-acb6-d45c012c27ad</dc:identifier>
+    <dc:title>preview</dc:title>
+    <dc:language>zh-CN</dc:language>
+    <dc:date opf:event="modification">2014-09-05</dc:date>
+    <meta name="cover" content="x" />
+  </metadata>
+  <manifest>
+  <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+  <item id="titlepage" href="Text/titlepage.xhtml" media-type="application/xhtml+xml"/>
+  <item href="Images/" id="x" media-type="image/"/>
+
+<item href="Text/chapter1.xhtml" id="chapter1.xhtml" media-type="application/xhtml+xml" />
+<item href="Text/cover.xhtml" id="cover.xhtml" media-type="application/xhtml+xml" />
+</manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml" linear="no"/>
+    <itemref idref="chapter1.xhtml" linear="yes" />
+    <itemref idref="titlepage" linear="yes"/>
+    
+
+ </spine>
+  <guide>
+    <reference href="Text/cover.xhtml" title="Cover" type="cover" />
+  </guide>
+</package>

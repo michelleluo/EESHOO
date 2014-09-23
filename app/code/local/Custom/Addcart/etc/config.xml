@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Custom_Addcart>
+            <version>0.1.0</version>
+        </Custom_Addcart>
+    </modules>
+    <frontend>
+        <routers>
+            <addcart>
+                <use>standard</use>
+                <args>
+                    <module>Custom_Addcart</module>
+                    <frontName>addcart</frontName>
+                </args>
+            </addcart>
+        </routers>
+    </frontend>
+</config>

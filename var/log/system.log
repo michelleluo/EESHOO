@@ -1,0 +1,39 @@
+2014-09-22T11:21:01+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : StartTag: invalid element name  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:21:01+00:00 ERR (3): Warning: simplexml_load_string(): <!—New Section.Name of the layout file–>  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:21:01+00:00 ERR (3): Warning: simplexml_load_string():  ^  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:22:59+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : StartTag: invalid element name  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:22:59+00:00 ERR (3): Warning: simplexml_load_string(): <!—New Section.Name of the layout file–>  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:22:59+00:00 ERR (3): Warning: simplexml_load_string():  ^  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:23:13+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : StartTag: invalid element name  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:23:13+00:00 ERR (3): Warning: simplexml_load_string(): <!—New Section.Name of the layout file–>  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:23:13+00:00 ERR (3): Warning: simplexml_load_string():  ^  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:23:15+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : StartTag: invalid element name  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:23:15+00:00 ERR (3): Warning: simplexml_load_string(): <!—New Section.Name of the layout file–>  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:23:15+00:00 ERR (3): Warning: simplexml_load_string():  ^  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:23:22+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : StartTag: invalid element name  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:23:22+00:00 ERR (3): Warning: simplexml_load_string(): <!—New Section.Name of the layout file–>  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:23:22+00:00 ERR (3): Warning: simplexml_load_string():  ^  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:23:24+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : StartTag: invalid element name  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:23:24+00:00 ERR (3): Warning: simplexml_load_string(): <!—New Section.Name of the layout file–>  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:23:24+00:00 ERR (3): Warning: simplexml_load_string():  ^  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:23:29+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : StartTag: invalid element name  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:23:29+00:00 ERR (3): Warning: simplexml_load_string(): <!—New Section.Name of the layout file–>  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:23:29+00:00 ERR (3): Warning: simplexml_load_string():  ^  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:23:30+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : StartTag: invalid element name  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:23:30+00:00 ERR (3): Warning: simplexml_load_string(): <!—New Section.Name of the layout file–>  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:23:30+00:00 ERR (3): Warning: simplexml_load_string():  ^  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:23:35+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : StartTag: invalid element name  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:23:35+00:00 ERR (3): Warning: simplexml_load_string(): <!—New Section.Name of the layout file–>  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:23:35+00:00 ERR (3): Warning: simplexml_load_string():  ^  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:26:05+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 13: parser error : StartTag: invalid element name  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:26:05+00:00 ERR (3): Warning: simplexml_load_string():             <!–This is the new section.Here we add the Block class name –>  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:26:05+00:00 ERR (3): Warning: simplexml_load_string():              ^  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:26:05+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : StartTag: invalid element name  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:26:05+00:00 ERR (3): Warning: simplexml_load_string(): <!—New Section.Name of the layout file–>  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:26:05+00:00 ERR (3): Warning: simplexml_load_string():  ^  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:26:05+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 13: parser error : StartTag: invalid element name  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:26:05+00:00 ERR (3): Warning: simplexml_load_string():             <!–This is the new section.Here we add the Block class name –>  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:26:05+00:00 ERR (3): Warning: simplexml_load_string():              ^  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:26:05+00:00 ERR (3): Warning: simplexml_load_string(): Entity: line 34: parser error : StartTag: invalid element name  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:26:05+00:00 ERR (3): Warning: simplexml_load_string(): <!—New Section.Name of the layout file–>  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
+2014-09-22T11:26:05+00:00 ERR (3): Warning: simplexml_load_string():  ^  in /var/www/html/eeshoo/lib/Varien/Simplexml/Config.php on line 510
